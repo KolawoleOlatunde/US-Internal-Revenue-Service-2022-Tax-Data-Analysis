@@ -54,6 +54,8 @@ All monetary values are reported in thousands of dollars as per IRS SOI conventi
 The Power BI report is organized into four analytical dashboards, each addressing a distinct dimension of tax system analysis.
 
 ## 1. Federal Tax Landscape
+https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/main/FTL.jpg
+
 This dashboard provides a macro-level overview of the U.S. tax system.
 
 <b>Key Metrics</b>
