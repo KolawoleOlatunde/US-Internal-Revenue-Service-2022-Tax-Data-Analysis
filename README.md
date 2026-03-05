@@ -6,12 +6,12 @@ This project presents an in-depth analytical exploration of the IRS 2022 (SOI) d
 The project integrates advanced data modeling, DAX measures, and multi-page interactive dashboards to analyze how income, tax liability, and taxpayer behavior vary across states, income brackets, and filing categories.
 Through a combination of descriptive analytics, distribution modeling, and policy-oriented metrics, it transforms raw IRS statistical datasets into interactive analytical dashboards that reveal:
 
-•	Income and AGI distribution patterns
-<br>•	Filing status trends
-<br>•	Tax liability dynamics across income brackets
-<br>•	Geographic distribution of taxpayers
-<br>•	Tax credit utilization and compliance patterns
-<br>•	State-level economic activity indicators
+- Income and AGI distribution patterns
+- Filing status trends
+- Tax liability dynamics across income brackets
+- Geographic distribution of taxpayers
+- Tax credit utilization and compliance patterns
+- State-level economic activity indicators
 
 The analysis is structured into four thematic dashboards, each designed to examine a different dimension of the federal tax landscape.
 
@@ -19,17 +19,17 @@ The objective is to demonstrate data analysis, tax policy interpretation, and bu
 
 ## Project Objectives
 The project was designed to answer several key analytical questions:
-<br>•	How is income distributed across AGI brackets and states?
-<br>•	How does effective tax burden vary across income levels?
-<br>•	Which states contribute most to federal tax revenue?
-<br>•	What are the structural sources of income across different income tiers?
-<br>•	How prevalent are business income, capital gains, and other income types?
-<br>•	What patterns exist in filing behavior and compliance outcomes?
+- How is income distributed across AGI brackets and states?
+- How does effective tax burden vary across income levels?
+- Which states contribute most to federal tax revenue?
+- What are the structural sources of income across different income tiers?
+- How prevalent are business income, capital gains, and other income types?
+- What patterns exist in filing behavior and compliance outcomes?
 
 ## Project Benefits
-•	Provides data-driven support system to Tax Policy decision makers.
-<br>•	Helps businesses identify best labor market.
-<br>•	Helps applicants identify high employment hubs and manage income expectations.
+- Provides data-driven support system to Tax Policy decision makers.
+- Helps businesses identify best labor market.
+- Helps applicants identify high employment hubs and manage income expectations.
 
 ## Data Source
 The dataset used in this analysis is from the IRS Statistics of Income (SOI) Program.
@@ -47,78 +47,83 @@ A00900	  Business income (Schedule C) <br>
 A01000	  Capital gains <br>
 A01750	  Pension income <br>
 A02500	  Social security income
-<br>
+
 All monetary values are reported in thousands of dollars as per IRS SOI conventions.
 
 ## Dashboard Architecture
 The Power BI report is organized into four analytical dashboards, each addressing a distinct dimension of tax system analysis.
 
 ## 1. Federal Tax Landscape
-https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/3bccc66aacef41d17348ed95a9f254030d65025f/FTL.jpg
+![image alt](https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/3bccc66aacef41d17348ed95a9f254030d65025f/FTL.jpg)
 
 This dashboard provides a macro-level overview of the U.S. tax system.
 
 <b>Key Metrics</b>
-<br>•	Total Returns Filed
-<br>•	Total Adjusted Gross Income
-<br>•	Total Taxable Income
-<br>•	Total Federal Tax Liability
-<br>•	Compliance Rate
+- Total Returns Filed
+- Total Adjusted Gross Income
+- Total Taxable Income
+- Total Federal Tax Liability
+- Compliance Rate
 
 <b>Visualizations</b>
-<br>•	Non-wage income composition across major states
-<br>•	Filing method adoption (electronic vs agent-prepared returns)
-<br>•	Filing status distribution
-<br>•	Geographic distribution of taxpayers
-<br>•	State-level compliance and filing volumes
+- Non-wage income composition across major states
+- Filing method adoption (electronic vs agent-prepared returns)
+- Filing status distribution
+- Geographic distribution of taxpayers
+- State-level compliance and filing volumes
 
 <b>Purpose</b>
 <br>To establish a high-level snapshot of federal tax activity and taxpayer distribution across the United States.
 
 ## 2. Income & AGI Dynamics
+![image alt](https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/ef9bc856a2267db149b9178409359dc4c9ffd05b/IAD.jpg)
 This dashboard focuses on income distribution and tax burden across income brackets.
 
 <b>Key Visualizations</b>
-<br>•	Effective tax rate across AGI brackets
-<br>•	Average taxable income by AGI bracket
-<br>•	Filing status distribution across income tiers
-<br>•	Income composition matrix (wages, business income, capital gains, pensions, social security)
-<br>•	State-level income vs effective tax rate scatter analysis
-<br>•	AGI decomposition tree by state and income tier
+- Effective tax rate across AGI brackets
+- Average taxable income by AGI bracket
+- Filing status distribution across income tiers
+- Income composition matrix (wages, business income, capital gains, pensions, social security)
+- State-level income vs effective tax rate scatter analysis
+- AGI decomposition tree by state and income tier
 
 <b>Analytical Value</b><br>
 This section reveals how income structure and tax burden change as income increases, highlighting the progressive nature of the U.S. tax system.
 
 ## 3. Tax Revenue & Income Dynamics
+![image alt](https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/ef9bc856a2267db149b9178409359dc4c9ffd05b/TRID.jpg)
+
 This dashboard examines economic income sources and wealth concentration patterns.
 
 <b>Key Analyses</b>
-<br>•	Capital gains vs business income concentration by state
-<br>•	Wage income concentration in major employment states
-<br>•	Volume of investors and business income returns
-<br>•	Prevalence of Alternative Minimum Tax (AMT)
-<br>•	Geographic concentration of wealth-based income
+- Capital gains vs business income concentration by state
+- Wage income concentration in major employment states
+- Volume of investors and business income returns
+- Prevalence of Alternative Minimum Tax (AMT)
+- Geographic concentration of wealth-based income
 
 <b>Key Insight Areas</b>
-<br>•	States acting as investment and business income hubs
-<br>•	Structural drivers of high-income tax bases
-<br>•	Relationship between wealth income and federal tax contribution
+- States acting as investment and business income hubs
+- Structural drivers of high-income tax bases
+- Relationship between wealth income and federal tax contribution
 
 ## 4. Policy Advisor – Income & Credit Dynamics
+![image alt](https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/ef9bc856a2267db149b9178409359dc4c9ffd05b/PA.jpg)
+
 This dashboard simulates a policy-focused perspective of the federal tax system.
 
 <b>Core Metrics</b>
-<br>•	Average tax paid per return
-<br>•	Tax credits distribution
-<br>•	Refund dependency ratios
-<br>•	Tax gap exposure by state
-<br>•	State-level AGI vs tax paid relationships
+- Average tax paid per return
+- Tax credits distribution
+- Refund dependency ratios
+- Tax gap exposure by state
+- State-level AGI vs tax paid relationships
 
 <b>Visualizations</b>
-<br>•	Credit distribution across income brackets
-<br>•	Refund dependency curves
-<br>•	Tax compliance and tax gap analysis
-<br>•	Income vs tax paid scatter modeling
+- Credit distribution across income brackets
+- Refund dependency curves
+- Tax compliance and tax gap analysis
+- Income vs tax paid scatter modeling
 
 <b>Purpose</b><br>
 This section translates raw tax data into policy-relevant insights on taxpayer behavior, credits, and compliance risks.
@@ -127,9 +132,9 @@ This section translates raw tax data into policy-relevant insights on taxpayer b
 The project involved several analytical and modeling techniques including:
 
 <b>Data Preparation</b>
-<br>•	Power Query transformations
-<br>•	Data cleaning and normalization
-<br>•	Star schema data modeling
+- Power Query transformations
+- Data cleaning and normalization
+- Star schema data modeling
 
 <b>Advanced DAX Metrics</b>
 
