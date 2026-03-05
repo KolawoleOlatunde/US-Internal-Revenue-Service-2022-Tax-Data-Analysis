@@ -32,21 +32,20 @@ The project was designed to answer several key analytical questions:
 - Helps applicants identify high employment hubs and manage income expectations.
 
 ## Data Source
-The dataset used in this analysis is from the IRS Statistics of Income (SOI) Program.
-Source: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics
-IRS SOI Individual Income Tax Statistics – Tax Year 2022
+The dataset used in this analysis is from the United Stste Internal Revenue Service 2022 Tax data.
 
-Key variables used include:<br>
-<b>Variable	Description </b> <br>
-N1	      Total number of tax returns<br>
-A00100	  Total Adjusted Gross Income (AGI)<br>
-A04800	  Total taxable income <br>
-A10300	  Total income tax liability <br>
-A00200	  Wage income <br>
-A00900	  Business income (Schedule C) <br>
-A01000	  Capital gains <br>
-A01750	  Pension income <br>
-A02500	  Social security income
+Source: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics
+
+A total of 165 variables and 166,132 records were analysed. Sample variables used include:<br>
+N1	  - Total number of tax returns<br>
+A00100	  - Total Adjusted Gross Income (AGI)<br>
+A04800	  - Total taxable income <br>
+A10300	 - Total income tax liability <br>
+A00200 -	  Wage income <br>
+A00900	-  Business income (Schedule C) <br>
+A01000	 - Capital gains <br>
+A01750	 - Pension income <br>
+A02500	 - Social security income, etc.
 
 All monetary values are reported in thousands of dollars as per IRS SOI conventions.
 
