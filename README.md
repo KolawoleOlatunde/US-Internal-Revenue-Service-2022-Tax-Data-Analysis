@@ -53,9 +53,9 @@ All monetary values are reported in thousands of dollars as per IRS SOI conventi
 The Power BI report is organized into four analytical dashboards, each addressing a distinct dimension of tax system analysis.
 
 ## 1. Federal Tax Landscape
-![image alt](https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/3bccc66aacef41d17348ed95a9f254030d65025f/FTL.jpg)
-
 This dashboard provides a macro-level overview of the U.S. tax system.
+
+![image alt](https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/3bccc66aacef41d17348ed95a9f254030d65025f/FTL.jpg)
 
 <b>Key Metrics</b>
 - Total Returns Filed
@@ -75,8 +75,9 @@ This dashboard provides a macro-level overview of the U.S. tax system.
 <br>To establish a high-level snapshot of federal tax activity and taxpayer distribution across the United States.
 
 ## 2. Income & AGI Dynamics
-![image alt](https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/ef9bc856a2267db149b9178409359dc4c9ffd05b/IAD.jpg)
 This dashboard focuses on income distribution and tax burden across income brackets.
+
+![image alt](https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/ef9bc856a2267db149b9178409359dc4c9ffd05b/IAD.jpg)
 
 <b>Key Visualizations</b>
 - Effective tax rate across AGI brackets
@@ -90,9 +91,9 @@ This dashboard focuses on income distribution and tax burden across income brack
 This section reveals how income structure and tax burden change as income increases, highlighting the progressive nature of the U.S. tax system.
 
 ## 3. Tax Revenue & Income Dynamics
-![image alt](https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/ef9bc856a2267db149b9178409359dc4c9ffd05b/TRID.jpg)
-
 This dashboard examines economic income sources and wealth concentration patterns.
+
+![image alt](https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/ef9bc856a2267db149b9178409359dc4c9ffd05b/TRID.jpg)
 
 <b>Key Analyses</b>
 - Capital gains vs business income concentration by state
@@ -107,9 +108,9 @@ This dashboard examines economic income sources and wealth concentration pattern
 - Relationship between wealth income and federal tax contribution
 
 ## 4. Policy Advisor – Income & Credit Dynamics
-![image alt](https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/ef9bc856a2267db149b9178409359dc4c9ffd05b/PA.jpg)
-
 This dashboard simulates a policy-focused perspective of the federal tax system.
+
+![image alt](https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/ef9bc856a2267db149b9178409359dc4c9ffd05b/PA.jpg)
 
 <b>Core Metrics</b>
 - Average tax paid per return
