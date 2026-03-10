@@ -193,6 +193,11 @@ This project demonstrates practical expertise in:
 <br>•	Microsoft Excel
 <br>•	IRS SOI datasets
 
+## Data Sources
+- https://www.irs.gov/pub/irs-soi/zipcode2022.zip
+- https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/29fccaa4e879668a6158fa4dba70b0044b05eceb/agi_stub.csv
+- https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/29fccaa4e879668a6158fa4dba70b0044b05eceb/state.csv
+
 ## Project Value
 
 This analysis illustrates how public financial data can be transformed into decision-support tools for:
