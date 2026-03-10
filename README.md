@@ -35,11 +35,11 @@ The project was designed to answer several key analytical questions:
 The dataset used in this analysis is from the United Stste Internal Revenue Service 2022 Tax data.
 
 <b>Source</b>: 
-https://www.irs.gov/pub/irs-soi/zipcode2022.zip 
-<br>
-https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2022-zip-code-data-soi
-<br>
-https://www.irs.gov/statistics/soi-tax-stats-state-data-fy-2022
+- https://www.irs.gov/pub/irs-soi/zipcode2022.zip
+- https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/29fccaa4e879668a6158fa4dba70b0044b05eceb/agi_stub.csv
+- https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/29fccaa4e879668a6158fa4dba70b0044b05eceb/state.csv
+- https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2022-zip-code-data-soi
+- https://www.irs.gov/statistics/soi-tax-stats-state-data-fy-2022
 
 A total of 165 variables and 166,132 records were analysed. Sample variables used include:<br>
 N1	  - Total number of tax returns<br>
@@ -192,11 +192,6 @@ This project demonstrates practical expertise in:
 <br>•	DAX
 <br>•	Microsoft Excel
 <br>•	IRS SOI datasets
-
-## Data Sources
-- https://www.irs.gov/pub/irs-soi/zipcode2022.zip
-- https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/29fccaa4e879668a6158fa4dba70b0044b05eceb/agi_stub.csv
-- https://github.com/KolawoleOlatunde/US-Internal-Revenue-Service-2022-Tax-Data-Analysis/blob/29fccaa4e879668a6158fa4dba70b0044b05eceb/state.csv
 
 ## Project Value
 
